@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GymApp</string>
+    <string name="log_in_page">log in page</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome_admin">Welcome Admin</string>
+    <string name="home">Home</string>
+    <string name="add_member">Add Member</string>
+    <string name="fee_pending">Fee pending</string>
+    <string name="setting">Setting</string>
+    <string name="settings">Setting</string>
+    <string name="add_update_the_fee">Add/Update the Fee</string>
+    <string name="change_password_mobile">Change Password/Mobile</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_member">All Member</string>
+    <string name="user_name">User Name</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="discount">Discount(%) :</string>
+    <string name="_0_00">0.00</string>
+    <string name="gym_membership_price">Gym memberShip price</string>
+    <string name="_1_month_fee">1 Month Fee</string>
+    <string name="_3_month_fee">3 month fee</string>
+    <string name="save">save</string>
+
+    <string-array name="membership">
+        <item>Select</item>
+        <item>1 Month</item>
+        <item>3 Months</item>
+        <item>6 Months</item>
+        <item>1 Year</item>
+        <item>3 Years</item>
+
+    </string-array>
+
+
+</resources>
